@@ -34,7 +34,11 @@ This project is an autonomous data visualizer and temperature tracker that uses 
 ## Video demonstration 
 
 
-https://user-images.githubusercontent.com/62586139/212832864-9a6872fe-4f72-4a5f-ade9-55e30dffe9ea.mp4
+
+
+https://user-images.githubusercontent.com/62586139/212833032-18dc4a78-2a8e-4085-9b26-803ffae894e1.mp4
+
+
 
 
 ## Tech Stack
