@@ -31,6 +31,12 @@ This project is an autonomous data visualizer and temperature tracker that uses 
 ## Troubleshooting
 - If the temperature data is not being displayed on the web interface, check the connection between the Arduino board and the computer.
 - If the face detection feature is not working, check that the webcam is properly connected and enabled.
+## Video demonstration 
+
+
+https://user-images.githubusercontent.com/62586139/212832864-9a6872fe-4f72-4a5f-ade9-55e30dffe9ea.mp4
+
+
 ## Tech Stack
 
 **Client:** bootstrap
